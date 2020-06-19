@@ -1,0 +1,10 @@
+C:\Users\Cleverson\source\repos\ANT Display\ANT.Framework\obj\Debug\ANT.Framework.csprojAssemblyReference.cache
+C:\Users\Cleverson\source\repos\ANT Display\ANT.Framework\obj\Debug\ANT.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Cleverson\source\repos\ANT Display\ANT.Framework\bin\Debug\ANT.Framework.dll
+C:\Users\Cleverson\source\repos\ANT Display\ANT.Framework\bin\Debug\ANT.Framework.pdb
+C:\Users\Cleverson\source\repos\ANT Display\ANT.Framework\bin\Debug\ANT_NET.dll
+C:\Users\Cleverson\source\repos\ANT Display\ANT.Framework\bin\Debug\ANT_NET.xml
+C:\Users\Cleverson\source\repos\ANT Display\ANT.Framework\obj\Debug\ANT.Framework.csproj.CopyComplete
+C:\Users\Cleverson\source\repos\ANT Display\ANT.Framework\obj\Debug\ANT.Framework.dll
+C:\Users\Cleverson\source\repos\ANT Display\ANT.Framework\obj\Debug\ANT.Framework.pdb
+C:\Users\Cleverson\source\repos\ANT Display\ANT.Framework\bin\Debug\ANT_WrappedLib.dll

@@ -1,0 +1,16 @@
+Web/bin/
+Web/[Dd]ebug/
+Web/[Dd]ebugPublic/
+Web/[Rr]elease/
+Web/[Rr]eleases/
+Web/x64/
+Web/x86/
+Web/bld/
+Web/[Bb]in/
+Web/[Oo]bj/
+Web/[Ll]og/
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+SmartDiamond/obj/Debug/SmartDiamond.csproj.CoreCompileInputs.cache
+SmartDiamond/obj/Debug/SmartDiamond.csproj.CopyComplete
+.vs/SmartDiamond/v15/Server/sqlite3/db.lock
