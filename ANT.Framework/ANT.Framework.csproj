@@ -21,6 +21,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -45,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ANTManger.cs" />
+    <Compile Include="ANTTest.cs" />
     <Compile Include="DataSources\DataSourceBase.cs" />
     <Compile Include="DataSources\ds_AntPlus.cs" />
     <Compile Include="DataSources\ds_AntPlus_BikeCad_UsingSpd.cs" />

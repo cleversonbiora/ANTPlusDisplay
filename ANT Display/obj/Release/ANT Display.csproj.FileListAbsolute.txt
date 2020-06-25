@@ -1,0 +1,15 @@
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\bin\Release\ANT_WrappedLib.dll
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\bin\Release\ANT Display.exe.config
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\bin\Release\ANT Display.exe
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\bin\Release\ANT Display.pdb
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\bin\Release\ANT.Framework.dll
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\bin\Release\ANT.Framework.pdb
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\bin\Release\ANT_NET.xml
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\obj\Release\ANT Display.csprojAssemblyReference.cache
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\obj\Release\ANT_Display.Form1.resources
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\obj\Release\ANT_Display.Properties.Resources.resources
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\obj\Release\ANT Display.csproj.GenerateResource.cache
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\obj\Release\ANT Display.csproj.CoreCompileInputs.cache
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\obj\Release\ANT Display.csproj.CopyComplete
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\obj\Release\ANT Display.exe
+C:\Users\Cleverson\source\repos\ANT Display\ANT Display\obj\Release\ANT Display.pdb

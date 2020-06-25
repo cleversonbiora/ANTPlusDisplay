@@ -22,7 +22,6 @@ namespace ANT_Display
         public Form1()
         {
             InitializeComponent();
-
              antMgr = new ANTManger();
             
             foreach (ANTManger.AntPlus_Connection i in antMgr.deviceList)

@@ -49,17 +49,13 @@ namespace ANT.Framework.DataSources
         {
             if (response.responseID == (byte)ANT_Managed_Library.ANT_ReferenceLibrary.ANTMessageID.BROADCAST_DATA_0x4E)
             {
-                //In this decode we ignore page change toggle and page type, since the info we need is transmitted on every page
-
                 int eventDiff = 0;
                 int timeDiff_1024 = 0;
-
-                // Decode data page
+                
                 ushort curSpdTime_1024 = (ushort)(response.messageContents[5] + (response.messageContents[6] << 8));
                 ushort curSpdEventNum = (ushort)(response.messageContents[7] + (response.messageContents[8] << 8));
-
-                // Initialize previous values on first message received
-                if (isInitialized) //Otherwise just init values below
+                
+                if (isInitialized) 
                 {
                     //Calculate Speed
                     eventDiff = (int)curSpdEventNum - (int)lastSpdEventNum;

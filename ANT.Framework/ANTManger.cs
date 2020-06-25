@@ -246,7 +246,7 @@ namespace ANT.Framework
             //Search for a search period for given device parameters
             //Find the next device to search for
 
-            while (true)  //We know there is at least one device we need to search for, because of the check above, so this will never loop infinitely
+            while (true) 
             {
                 ++searchingDeviceIndex;
                 if (searchingDeviceIndex >= deviceList.Count)
